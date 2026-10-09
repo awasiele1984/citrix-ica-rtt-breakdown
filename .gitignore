@@ -1,0 +1,8 @@
+# data produced by the script: contains machine names and client IP addresses
+rtt_samples*.csv
+rtt_breakdown*.csv
+geo.csv
+# never commit credentials
+*.secret
+*.xml
+.DS_Store
